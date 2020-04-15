@@ -1,15 +1,6 @@
 # Maze_Solver_Computer_Graphics
 A computer-generated world (maze) with textures, model view matrices and, projection matrices.  
-
-## Files uploaded: 
-matrix.h
-projection.c
-vshader.glsl
-fshader.glsl
-p2texture04.jpg
-p2texture04.raw
-initShader.c
-initShader.h  
+    
 
 The file world.c contains main() function along with other functions that make
 the world.   
